@@ -24,7 +24,7 @@ A comprehensive Python-based security assessment tool designed to identify, anal
 ## 🚀 Features
 
 ### Core Capabilities
-- **🔍 Network Discovery**: Automatic device discovery using ARP scanning
+- **🔍 Network Discovery**: Automatic device discovery using ARP scanning.
 - **🔌 Port Scanning**: Multi-threaded port scanning with intelligent service detection
 - **🎯 IoT Device Identification**: Smart identification of IoT device types and manufacturers
 - **🔐 Vulnerability Assessment**: Comprehensive security analysis including:
